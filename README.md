@@ -50,7 +50,7 @@ Our app hosts various organizations that actively host social cleanups in the ci
 ______________________________________________________________________________________________________________________________________________________
  Download Apk ✅- [Click here](https://drive.google.com/drive/folders/1yQvjFDko7IEKAGTaIgRcW-GzbD2S_0OZ)
  
- Note :- This Applications is Developed in latest Andriod Studio Canary Build Kindly Run in that.
+ Note :- Required AGP is 8.2.0 and above. Is Backward Compatible. To run on lower android studio versions go to gradle/libs.version.toml and change AGP as per your Android Studio Version.
 
 ## Technologies
 __________________________________________________________________________________________________________________________________________________
